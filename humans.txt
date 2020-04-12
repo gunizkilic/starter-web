@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Guniz Kilic @gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
